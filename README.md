@@ -4,7 +4,9 @@
 
 A Tableau portfolio project exploring the reliability of Salesforce Data Cloud-style ingestion, audience segmentation, and activation operations using entirely synthetic data.
 
-**Live dashboard:** Tableau Public link pending publication.
+**Live dashboard:** [Explore the interactive Tableau dashboard](https://public.tableau.com/app/profile/pavankumar.sindhuri/viz/EnterpriseDataCloudOperations/01ExecutiveHealth)
+
+The GitHub TWBX is the CSV-based authoring version. The Tableau Public version uses extracts created during publication. For Public Edition, use the live link; the original local workbook may require extract conversion.
 
 ## Business questions
 
