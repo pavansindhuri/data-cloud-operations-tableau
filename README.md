@@ -1,3 +1,5 @@
+> **Download source project:** The `outputs/`, `work/`, `docs/` folders and `requirements.txt` described below are inside [Data_Cloud_Operations_GitHub_Portfolio.zip](Data_Cloud_Operations_GitHub_Portfolio.zip). Extract the ZIP first, then run the reproduction commands from the extracted directory. The ready-to-open TWBX is also available separately above.
+
 # Enterprise Data Cloud Operations
 
 A Tableau portfolio project exploring the reliability of Salesforce Data Cloud-style ingestion, audience segmentation, and activation operations using entirely synthetic data.
